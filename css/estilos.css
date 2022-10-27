@@ -4,7 +4,6 @@
 }
 
 body{ /*usar esta configuracion de css para el body*/
-	background:#fff;
 	background-image: url(../imagenes/fondo.jpg);
 	background-repeat: no-repeat; /*para que la imagen no se repita en el fondo*/
 	background-attachment: fixed; /* esta y la que sige es para evitar que se queden espacios en blanco*/
@@ -17,7 +16,7 @@ header, .principal, footer{ /*se declara el tamano que se quiere de ancho con el
 	margin:20px auto;
 }
 h1{
-	color: white;
+	color: #ff8400;
 }
 header nav { /*con el background se deside el color de fondo del nav que es el que contiene el menu, con el overflow:hidden se 
 				el nev con sus modificaciones de color */
