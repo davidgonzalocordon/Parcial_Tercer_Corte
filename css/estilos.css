@@ -66,7 +66,7 @@ h2, h3,h4{
 }
 
 footer{
-	background:#008cff;/*color del footer siempre colcar el mismp colocar que el del menu*/
+	background:#ff8400;/*color del footer siempre colcar el mismp colocar que el del menu*/
 	color:#fff;
 	clear: both;/*para 	que se vea el footer*/
 	padding: 10px 0px;
