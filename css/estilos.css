@@ -52,9 +52,10 @@ header nav ul li a:hover { /*se usa para que cuando se seleccione una de las cas
 	color: #ff8400;
 	text-decoration: none;
 }
-.img-imperactiva, .img-declarativa{
-	max-width: 256px;
-	max-height: 256px;
+.img-intro, .img-articulo{
+	max-width: 400px;
+	max-height: 300px;
+
 }
 
 h1{/*el tipo del letra*/
@@ -63,6 +64,11 @@ h1{/*el tipo del letra*/
 
 h2, h3,h4{
 	font-family: 'Mukta', sans-serif;
+}
+
+.imagenparticipante{
+	max-width: 500px;
+	max-height: 400px;
 }
 
 footer{
