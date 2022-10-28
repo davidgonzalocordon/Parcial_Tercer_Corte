@@ -57,6 +57,10 @@ header nav ul li a:hover { /*se usa para que cuando se seleccione una de las cas
 	max-height: 300px;
 
 }
+.img-pieviedojuegos{
+	max-width: 300px;
+}
+
 
 h1{/*el tipo del letra*/
 	font-family: 'Oswald', sans-serif;
