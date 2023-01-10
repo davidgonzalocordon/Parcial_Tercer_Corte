@@ -60,8 +60,6 @@ header nav ul li a:hover { /*se usa para que cuando se seleccione una de las cas
 .img-pieviedojuegos{
 	max-width: 300px;
 }
-
-
 h1{/*el tipo del letra*/
 	font-family: 'Oswald', sans-serif;
 }
@@ -76,7 +74,7 @@ h2, h3,h4{
 }
 
 footer{
-	background:#ff8400;/*color del footer siempre colcar el mismp colocar que el del menu*/
+	background:#c3f1fc;/*color del footer siempre colcar el mismp colocar que el del menu*/
 	color:#fff;
 	clear: both;/*para 	que se vea el footer*/
 	padding: 10px 0px;
